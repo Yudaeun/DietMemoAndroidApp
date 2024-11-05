@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">diet_memo</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
